@@ -1,13 +1,12 @@
 ## kotnetzabot
+
 Меня зовут **Дмитрий Аникин**. Я изучаю Python и Web-разработку.
-
-Эта страница пока не заполнена. Она будет редактироваться по мере моего продвижения.
-
+Эта страница пока не заполнена, но она будет редактироваться по мере моего продвижения.
 Буду рад знакомству с позитивными людьми, имеющими похожие интересы.
 
 ## [Контакты](https://kotnetzabot.github.io/Portfolio-Web-100923/)
 
-
+***
 
 <!--
 **kotnetzabot/kotnetzabot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
